@@ -1,0 +1,14 @@
+table {
+    border-collapse: separate;
+    width: 100%;
+    border: 2px solid black;
+} 
+
+td {
+    border: 2px solid black;
+}
+
+table.s1 {
+    table-layout: auto;
+    border: 2px solid black;
+}
